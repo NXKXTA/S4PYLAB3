@@ -1,4 +1,4 @@
-from PyQt5.QtWidgets import QWidget, QVBoxLayout, QRadioButton, QLabel
+from PyQt6.QtWidgets import QWidget, QVBoxLayout, QRadioButton, QLabel
 
 class Window(QWidget):
     def __init__(self):
